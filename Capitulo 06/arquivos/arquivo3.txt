@@ -1,0 +1,2 @@
+Este Arquivo foi gerado pelo Jupyter Notebook,
+podemos gerar quantas lihhas quisermos, e o jupyter grava no arquivo final.
